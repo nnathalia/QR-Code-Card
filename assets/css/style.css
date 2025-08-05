@@ -29,7 +29,7 @@ body{
   justify-content: center;
   padding: 1rem;
   border-radius: 10px;
-  width: 400px;
+  width: 25rem;
 }
 
 .img img{
@@ -66,9 +66,9 @@ body{
   font-size: 0.900rem;
 }
 
-@media (max-width <= 768px) {
+@media (max-width: 768px) {
   .qr-code-content{
-    width: 300px;
+    width: 18.75rem;
   }
 
   .text-primary{
