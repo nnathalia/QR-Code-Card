@@ -26,7 +26,8 @@ O desafio me proporcionou a prática de centralização de conteúdo com Flexbox
 ### Screenshot
 
 ![Screenshot do projeto](/assets/images/screencapture-qr-code.png)
-![Screenshot do projeto](/assets/images/screencapture-qr-code-mobile.png)
+
+
 ### Links
 
 - URL da Solução: [Link da solução aqui](https://github.com/nnathalia/QR-Code-Card)
